@@ -114,7 +114,7 @@
  
 **🚩 IRST FORK THIS REPO 🚩**
 
-<a href="https://github.com/dog-shadow/SITHUWA-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
+<a href="https://github.com/Sithuwa-md2006/SITHUWA-MD.git/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
   <div>
 <div>
 
