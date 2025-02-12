@@ -162,7 +162,7 @@
 
 **✅ DEPLOY ON HEROKU ✅**
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dog-shadow/SITHUWA-MD.git)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Sithuwa-md2006/SITHUWA-MD.git)
 
 
 
